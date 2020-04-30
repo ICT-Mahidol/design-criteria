@@ -1,7 +1,5 @@
 package th.ac.mahidol.ict.demeter;
 
-import th.ac.mahidol.ict.Test;
-
 public class LawOfDemeterExample
 {
     // This is an instance in the class scope

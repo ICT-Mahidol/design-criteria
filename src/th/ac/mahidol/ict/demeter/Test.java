@@ -1,4 +1,4 @@
-package th.ac.mahidol.ict;
+package th.ac.mahidol.ict.demeter;
 
 import th.ac.mahidol.ict.demeter.AnotherClass;
 
