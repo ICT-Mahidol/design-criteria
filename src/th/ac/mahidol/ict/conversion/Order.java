@@ -9,6 +9,7 @@ public class Order {
     private double subTotal;
     private double tax;
     private double shipping;
+    private double total;
     private Customer customer;
     private State state;
     private List<ProductOrder> productOrders;
